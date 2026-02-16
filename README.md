@@ -1,8 +1,5 @@
 # SAMFVG2026
 # Git & Wwise Collaboration Assignment
-# Git & Wwise Collaboration Assignment
-
-**Sound Museum Project**
 
 ---
 
