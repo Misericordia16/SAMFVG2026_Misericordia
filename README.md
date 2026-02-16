@@ -453,12 +453,6 @@ Your assignment will be graded on:
 
 ---
 
-## Additional Resources
-
-- [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
-- [Wwise Documentation](https://www.audiokinetic.com/library/)
-- [Git Visualizer](https://git-school.github.io/visualizing-git/)
-- [Free Sound Effects - Freesound](https://freesound.org)
 - [Unity Learn](https://learn.unity.com)
 - [Audacity (free audio editor)](https://www.audacityteam.org)
 
